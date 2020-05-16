@@ -76,8 +76,7 @@ module.exports = {
       async profile(req,res){
 
         let userfind = await User.find({_id:req.userId})
-        delete userfind[0]['password'] = null;
-        console.log(userfind)
+         userfind[0]['password'] = null;
     
         res.json(userfind)
     }
