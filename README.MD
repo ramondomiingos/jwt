@@ -28,8 +28,8 @@ headers
 
 	{
         "_id": "5ec050b7463996267471f9dc",
-        "username": "ramondomiingozaa",
-        "name": "Ramon Domingos",
+        "username": "joazinho",
+        "name": "joao",
         "created_at": "2020-05-16T20:44:39.000Z",
         "__v": 0
     }
