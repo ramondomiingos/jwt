@@ -1,3 +1,5 @@
+# JWT EXEMPLE
+(https://jwt-exemple.herokuapp.com/)[https://jwt-exemple.herokuapp.com/]
 ## /new-user
 ```json
 
