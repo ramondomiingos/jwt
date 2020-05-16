@@ -1,6 +1,7 @@
 # JWT EXEMPLE
 (https://jwt-exemple.herokuapp.com/)[https://jwt-exemple.herokuapp.com/]
-## /new-user
+## POST /new-user
+body
 ```json
 
 {
@@ -10,7 +11,8 @@
 	"username": "joazinho"
 }
 ```
-## /auth
+## POST /auth
+body
 ```json
 
 {
@@ -18,7 +20,9 @@
 	"username": "joazinho"
 }
 ```
-## /profile
+## GET /profile
+headers
+['x-access-token']
 ```json
 
 
