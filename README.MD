@@ -1,5 +1,5 @@
 # JWT EXEMPLE
-(https://jwt-exemple.herokuapp.com/)[https://jwt-exemple.herokuapp.com/]
+[https://jwt-exemple.herokuapp.com/](https://jwt-exemple.herokuapp.com/)
 ## POST /new-user
 body
 ```json
